@@ -1,0 +1,5 @@
+{
+  "name": "Nord Pool Elektrihinnad",
+  "description": "Reaalajas Nord Pooli elektrihinnad graafikuna, kasutades Eleringi andmeid.",
+  "requestFramePermissions": []
+}
